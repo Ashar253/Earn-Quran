@@ -1,0 +1,46 @@
+/* Container setup for horizontal layout */
+#banner {
+  display: flex;
+  justify-content: space-between; /* space between images */
+  align-items: center;
+  flex-wrap: nowrap; /* Don't wrap to next line */
+  padding: 10px;
+  background-color: white;
+  overflow-x: auto;
+  
+  /* Center horizontally */
+  max-width: 800px; /* adjust as needed */
+  margin: 0 auto;   /* centers the banner horizontally */
+  gap: 10px;        /* spacing between images */
+}
+
+/* Equal and responsive image size */
+#banner img {
+  flex: 1;
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+/* Optional: Hover effect */
+#banner img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+/* Responsive tweaks for mobile */
+@media screen and (max-width: 480px) {
+  #banner {
+    justify-content: center;
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  #banner img {
+    max-width: 90px;
+    flex: 0 0 auto;
+  }
+}

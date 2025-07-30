@@ -1,0 +1,313 @@
+@media (max-width: 675px) {
+.chapterbody{
+  height: 90%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+
+}
+.backword{
+    
+   margin-top: 11.8rem;
+   width:1rem;
+   margin-left: 6rem;
+   margin-bottom: 0rem;
+   
+}
+ .Forword{
+    margin-left: 1.1rem;
+     margin-top: 15rem; 
+     width:2rem;
+ }
+.chapter{
+    width: 17rem;
+    height: 30rem;  
+    display: inline;
+    justify-content: center;
+    margin-left: 0rem;
+    margin-right: 0rem;
+   
+}
+
+.letter{
+    
+    height: 12rem;
+    width:4rem ;
+    margin-top: 0rem;
+    margin-left:0rem ;
+   
+}
+
+#chapter_body11{
+        
+    height:10rem;
+    width: 5rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:3rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body12{
+        
+    height:10rem;
+    width: 5rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:3rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body8{
+        
+    height:10rem;
+    width: 7rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:3rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center; 
+   
+    
+}
+
+.letterblock{
+    height:10rem;
+    width:15rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    
+   
+}
+.letter2{
+    height: 12rem;
+    width:8rem ;
+    display: inline;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   margin-bottom: 5rem;
+   
+}
+
+#chapter_body1{
+    
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body2{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body3{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body4{
+        
+    height:10rem;
+    width: 5rem;
+    background-color:white;
+    display: inline-block;
+    font-size:3rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+
+#chapter_body5{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+
+#chapter_body6{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body7{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body8{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body9{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body10{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1rem;
+
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-right: none;
+    border-top:none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+.chapter_body3{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-bottom: none;
+    border-right: none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+.chapter_body4{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-bottom: none;
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+
+
+/* .button{
+    display: flex;
+    justify-content: center;
+} */
+ 
+.Forwordbutton{
+    /* display: none; */
+   
+    
+}
+.backwordbutton{
+    /* display: none; */
+    
+}
+
+
+    
+
+
+
+
+}

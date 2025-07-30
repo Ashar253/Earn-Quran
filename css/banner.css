@@ -1,0 +1,28 @@
+ #banner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      
+      padding: 10px 20px;
+      
+    }
+
+    .banner-img {
+      height: 120px; /* Doubled from 60px */
+      width: auto;
+      border-radius: 50%;
+      object-fit: contain;
+      transition: transform 0.3s ease;
+    }
+
+    .banner-img:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+
+    .home-log-sig {
+      border-radius: 50%;
+      background-color: white;
+      padding: 10px; /* Adjusted padding for larger image */
+     
+    }

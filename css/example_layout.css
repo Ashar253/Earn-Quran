@@ -1,0 +1,822 @@
+.chapterbody{
+    display: flex;
+    justify-content: center;
+    margin-right: 12rem;
+    margin-top: 1rem;
+}
+.backword{
+    
+    margin-top: 8rem;
+   width:5rem;
+   margin-left: 10rem;
+   margin-bottom: 0rem;
+   
+}
+.chapter{
+    width: 20rem;
+    height: 30rem;  
+    display: inline;
+    justify-content: center;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    
+   
+}
+
+.letter{
+    
+    height: 12rem;
+    width:4rem ;
+    margin-top: 0rem;
+    margin-left:0rem ;
+   
+}
+.letter01{
+    
+    height: 12rem;
+    width:4rem ;
+    margin-top: 0rem;
+    margin-left:0rem ;
+   
+}
+.letter02{
+    
+    height: 12rem;
+    width:4rem ;
+    margin-top: 0rem;
+    margin-left:0rem ;
+   
+}
+
+#chapter_body11{
+        
+    height:10rem;
+    width: 7rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:5rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body12{
+        
+    height:10rem;
+    width: 7rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:5rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body8{
+        
+    height:10rem;
+    width: 7rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:5rem;
+
+    /* border-radius: 3rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center; 
+   
+    
+}
+.audio{/*
+    height:2.8rem;
+    width: 7.4rem;
+    background-color:white;
+    
+    display: inline-block;
+    font-size:5rem;
+    font-size: 0.8rem;
+    
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    border-top: none;
+    align-content: center;
+    text-align: center; 
+    */
+}
+/* .letterblock{
+   
+    width:14rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    
+   
+} */
+ .letterblock_audio{
+   height:5rem;
+    width:14rem; 
+} 
+.letter1{
+    height: 5rem;
+    width:20rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   gap: 0.5rem;
+   
+   
+}
+.letter2{
+    height: 5rem;
+    width:20rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   gap: 0.5rem;
+   
+}
+.letter3{
+    height: 5rem;
+    width:20rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   gap: 0.5rem;
+   
+}
+.letter4{
+    height: 5rem;
+    width:20rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   gap: 0.5rem;
+   
+}
+.letter5{
+    height: 5rem;
+    width:20rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   gap: 0.5rem;
+   
+}
+#chapter_body1{
+    
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body2{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body3{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+
+
+#chapter_body5{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+
+#chapter_body6{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body7{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body8{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body9{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body10{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+/*  */
+#chapter_body11{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body12{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body13{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body14{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body15{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body16{
+    height: 3.2rem;
+    width: 8.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:2rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+/*  */
+.chapter_body3{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-bottom: none;
+    border-right: none;
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+.chapter_body4{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    border-bottom: none;
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+
+
+/* .button{
+    display: flex;
+    justify-content: center;
+} */
+ .Forword{
+    margin-left: 1.2rem;
+     margin-top: 11rem; 
+    
+ }
+
+.form{
+    justify-content: center;
+    padding-left: 27rem;
+    padding-top: 2rem;
+}
+#reload-button{
+    justify-content: center;
+    /* margin-left: 27rem; */
+}
+.backword_button{
+    display: flex;
+    align-items: right;
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+
+}
+.Forwordbutton{
+    display: flex;
+    align-items: right;
+    
+   
+
+    
+}
+.backwordbutton{
+    display: flex;
+    align-items: right;
+    margin-right: 2rem;
+    margin-top: 5rem;
+
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+  
+.Forwordbutton {
+  --c: #fff;
+  /* text color */
+  background: linear-gradient(90deg, #0000 33%, #fff5, #0000 67%) var(--_p,100%)/300% no-repeat,
+    #3b66cb;
+  /* background color */
+  color: #0000;
+  border: none;
+  transform: perspective(500px) rotateY(calc(20deg*var(--_i,-1)));
+  text-shadow: calc(var(--_i,-1)* 0.08em) -.01em 0   var(--c),
+    calc(var(--_i,-1)*-0.08em)  .01em 2px #0004;
+  outline-offset: .1em;
+  transition: 0.3s;
+}
+.backwordbutton {
+  --c: #fff;
+  /* text color */
+  background: linear-gradient(90deg, #0000 33%, #fff5, #0000 67%) var(--_p,100%)/300% no-repeat,
+    #3b66cb;
+  /* background color */
+  color: #0000;
+  border: none;
+  transform: perspective(500px) rotateY(calc(20deg*var(--_i,-1)));
+  text-shadow: calc(var(--_i,-1)* 0.08em) -.01em 0   var(--c),
+    calc(var(--_i,-1)*-0.08em)  .01em 2px #0004;
+  outline-offset: .1em;
+  transition: 0.3s;
+}
+.Forwordbutton:hover,
+.Forwordbutton:focus-visible {
+  --_p: 0%;
+  --_i: 1;
+}
+
+.Forwordbutton:active {
+  text-shadow: none;
+  color: var(--c);
+  box-shadow: inset 0 0 9e9q #0005;
+  transition: 0s;
+}
+.backwordbutton{
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+  cursor: pointer;
+  padding: .1em .3em;  
+}
+.Forwordbutton {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+  cursor: pointer;
+  padding: .1em .3em;
+}
+#backword{
+    margin-top: 3rem;
+    
+}
+
+@media (max-width: 675px){
+    /* letter start */
+    
+.letter1{
+height: 5rem;
+width:15rem ;
+display: flex;
+font-size: 1rem;
+align-items: center;
+justify-content: center;
+margin-top: 0rem;
+margin-right: 0rem;
+gap: 0.5rem;
+   
+   
+}
+.letter2{
+height: 5rem;
+width:15rem ;
+display: flex;
+font-size: 1rem;
+align-items: center;
+justify-content: center;
+margin-top: 0rem;
+margin-right: 0rem;
+gap: 0.5rem;
+   
+}
+.letter3{
+height: 5rem;
+width:15rem ;
+display: flex;
+font-size: 1rem;
+align-items: center;
+justify-content: center;
+margin-top: 0rem;
+margin-right: 0rem;
+gap: 0.5rem;
+   
+}
+.letter4{
+height: 5rem;
+width:15rem ;
+display: flex;
+font-size: 1rem;
+align-items: center;
+justify-content: center;
+margin-top: 0rem;
+margin-right: 0rem;
+gap: 0.5rem;
+   
+}
+.letter5{
+height: 5rem;
+width:15rem ;
+display: flex;
+font-size: 1rem;
+align-items: center;
+justify-content: center;
+margin-top: 0rem;
+margin-right: 0rem;
+gap: 0.5rem;
+
+}
+    /* letter End */
+.chapterbody {
+  display: flex;
+  justify-content: center;   /* center children horizontally */
+  align-items: center;       /* optional: center children vertically */
+  width: 55%;
+  margin: 1rem auto;         /* center the container in its parent */
+}
+.letterblock_audio{
+height:5rem;
+width:10.4rem; 
+} 
+
+.Forword{
+    
+margin-left: 4.2rem;
+margin-bottom: 120%;
+
+ }
+
+.backword{
+width: 1rem;
+margin-right: 4.5%;
+ margin-left: 0%;
+margin-bottom: 120%;
+  
+}
+.chapter{
+width: 15.5rem;
+height: 30rem;  
+display: inline;
+justify-content: center;
+margin-left: 0rem;
+margin-right: 0rem;
+    
+   
+}
+
+#chapter_body1{
+
+height: 3.2rem;
+width: 3.5rem;
+background-color:rgb(253, 253, 253);
+display: inline-block;
+font-size:1.5rem;
+
+border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+
+align-content: center;
+text-align: center;
+padding-left: 0.5rem; 
+}
+#chapter_body2{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body3{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+
+
+#chapter_body5{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+
+#chapter_body6{
+    height: 3.2rem;
+   width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body7{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body8{
+    height: 3.2rem;
+   width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body9{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body10{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+} 
+#chapter_body11{
+    height: 3.2rem;
+   width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body12{
+    height: 3.2rem;
+    width: 3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body13{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+} 
+#chapter_body14{
+    height: 3.2rem;
+   width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body15{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body16{
+    height: 3.2rem;
+    width:  3.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.5rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+} 
+}
+

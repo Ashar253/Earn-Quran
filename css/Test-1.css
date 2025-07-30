@@ -1,0 +1,612 @@
+.chapterbody{
+    display: flex;
+    justify-content: center;
+    margin-right: 0%;
+    margin-top: 1%;
+    width: 100%;
+}
+
+.chapter{
+    width: 22%;
+    height: 30%;
+    display: inline;
+    justify-content: center;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.letterpara{
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+}
+.letter{
+    
+    height: 5rem;
+    width:0rem ;
+    margin-top: 0rem;
+    margin-left:10rem ;
+   
+}
+#chapter_body4{
+        
+    height:3.5rem;
+    width: 23.2rem;
+    background-color:white;
+    display: inline-block;
+    font-size:2.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;  
+}
+#chapter_body11{
+        
+    height:3.5rem;
+    width: 23.2rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:2.7rem;
+
+    /* border-radius: 3rem;*/
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body12{
+        
+    height:3.5rem;
+    width: 23.2rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:2.7rem;
+
+    /* border-radius: 3rem;*/
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body8{
+        
+    height:10rem;
+    width: 7rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:5rem;
+
+    /* border-radius: 3rem;*/
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center; 
+   
+    
+}
+.audio{/*
+    height:2.8rem;
+    width: 7.4rem;
+    background-color:white;
+    
+    display: inline-block;
+    font-size:5rem;
+    font-size: 0.8rem;
+    
+    border: 1mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    border-top: none;
+    align-content: center;
+    text-align: center; 
+    */
+}
+.letterblock{
+    height:10rem;
+    width:17rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 2rem; 
+}
+.lettervideoblock{
+    
+    display: inline;
+    justify-content: center;
+    margin-left: 3.3rem;
+   
+}
+#chapter_body1{
+    
+     height: 5.2rem;
+    width: 6.5rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;  
+}
+#chapter_body2{
+    height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body3{
+    height: 5.2rem;
+     width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+
+.para{
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    font-size:2rem;  
+    justify-content: center;
+    align-items: center; 
+    
+
+}
+.letter1{
+    display: flex;
+    font-size: 3rem;
+    align-items: center;
+   justify-content: center;
+   margin-top: 0rem;
+   margin-bottom: 0rem;
+   
+}
+.letter2{
+    height: 14rem;
+    width:25rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center; 
+   justify-content: center;
+   gap: 2rem;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   margin-bottom: 5rem;
+   
+}
+
+#chapter_body5{
+    height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+   
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+
+#chapter_body6{
+     height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body7{
+     height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body8{
+     height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body9{
+     height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+   font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body10{
+     height: 5.2rem;
+    width: 6.5rem;
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:3.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+.chapter_body3{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+.chapter_body4{
+    height: 2rem;
+    width: 4.7rem;
+    background-color:rgb(253, 253, 253);
+    /* border-radius: 60%; */
+    display: inline-block;
+    font-size:1rem;
+
+    /*border-radius: 4rem;*/
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    border-bottom: none;
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-bottom: 0%;
+}
+
+
+/* .button{
+    display: flex;
+    justify-content: center;
+} */
+ .Forword{
+    margin-left: 7.7rem;
+     margin-top: 3rem; 
+ }
+
+.form{
+    justify-content: center;
+    padding-left: 27rem;
+    padding-top: 2rem;
+}
+#reload-button{
+    justify-content: center;
+    /* margin-left: 27rem; */
+}
+
+.Forwordbutton{
+    display: flex;
+    align-items: right;
+    margin-left: 5rem;
+    margin-top: 5rem;
+
+    
+}
+ 
+
+
+.Forwordbutton {
+  --c: #fff;
+  /* text color */
+  background: linear-gradient(90deg, #0000 33%, #fff5, #0000 67%) var(--_p,100%)/300% no-repeat,
+    #3b66cb;
+  /* background color */
+  color: #0000;
+  border: none;
+  transform: perspective(500px) rotateY(calc(20deg*var(--_i,-1)));
+  text-shadow: calc(var(--_i,-1)* 0.08em) -.01em 0   var(--c),
+    calc(var(--_i,-1)*-0.08em)  .01em 2px #0004;
+  outline-offset: .1em;
+  transition: 0.3s;
+}
+
+.Forwordbutton:hover,
+.Forwordbutton:focus-visible {
+  --_p: 0%;
+  --_i: 1;
+}
+
+.Forwordbutton:active {
+  text-shadow: none;
+  color: var(--c);
+  box-shadow: inset 0 0 9e9q #0005;
+  transition: 0s;
+}
+
+.Forwordbutton {
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 0;
+  cursor: pointer;
+  padding: .1em .3em;
+}
+#backword{
+    margin-top: 3rem;
+}
+
+.highlight {
+            color: rgb(240, 18, 18); /* Change to desired color */
+            font-weight: bold;
+        }
+
+@media (max-width: 675px) {
+    .chapterbody{
+    display: flex;
+    justify-content: center;
+    margin-right: 0rem;
+    margin-top: 1rem;
+    width: 75%;
+}
+.chapter{
+    width: 19rem;
+    height: 25rem;
+    /* margin: 20rem auto; */
+    /* align-items: center; */
+    
+    display: inline;
+    justify-content: center;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    /* display: flex; */
+}
+.letterblock{
+    height:8rem;
+    width:17rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    
+   
+}
+.letter2{
+    height: 12rem;
+    width:25rem ;
+    display: flex;
+    font-size: 1rem;
+    align-items: center; 
+   justify-content: center;
+   gap: 2rem;
+   margin-top: 0rem;
+   margin-right: 0rem;
+   margin-bottom: 5rem;
+   
+}
+    #chapter_body4{
+        
+    height:2.5rem;
+    width: 15.8rem;
+    background-color:white;
+    display: inline-block;
+    font-size:1.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;  
+}
+  
+#chapter_body1{
+    
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;  
+}
+#chapter_body2{
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body3{
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body11{
+        
+    height:2.5rem;
+    width: 15.8rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:1.7rem;
+
+    /* border-radius: 3rem;*/
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body5{
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+   
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+
+#chapter_body6{
+      height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body7{
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+#chapter_body12{
+        
+    height:2.5rem;
+    width: 15.8rem;
+    background-color:white;
+    /* border-radius: 50%; */
+    display: inline-block;
+    font-size:1.7rem;
+    /* border-radius: 3rem;*/
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center;    
+}
+#chapter_body8{
+        
+     height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    /* border-radius: 3rem;*/
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    justify-content: center;
+    
+    align-content: center;
+    text-align: center; 
+   
+    
+}
+#chapter_body9{
+      height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+
+    border:  0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem; 
+}
+#chapter_body10{
+      height: 3.2rem;
+    width: 4rem;
+   
+    background-color:rgb(253, 253, 253);
+    display: inline-block;
+    font-size:1.7rem;
+    border: 0.5mm ridge rgba(16, 16, 16, 0.6);
+    
+    align-content: center;
+    text-align: center;
+    padding-left: 0.5rem;
+}
+ .Forword{
+    margin-left: 4.7rem;
+     margin-top: 3rem; 
+ }
+ .Forwordbutton {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+  cursor: pointer;
+  padding: .1em .3em;
+}
+}
