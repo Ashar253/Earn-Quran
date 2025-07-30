@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+
+    <link rel="stylesheet" href="css/index.css">
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .chapter-block {
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      width: 300px;
+    }
+    .progress-bar-container {
+      background-color: #eee;
+      height: 12px;
+      width: 100%;
+      border-radius: 6px;
+      margin-top: 5px;
+    }
+    .progress-bar {
+      background-color: #4caf50;
+      height: 100%;
+      width: 0%;
+      border-radius: 6px;
+      transition: width 0.3s ease;
+    }
+  </style>
+<body>
+   
+  
+<div id="banner">  
+    <img  src="quranlogo10.png" alt="image not found" >
+    <img  src="maulana3.png" alt="image not found" >
+    <img  onclick="location.href='index.html'" src="homelogo4.png" alt="image not found" >   
+</div>  
+<div class="langaugebtn_container">
+    <button type="submit"    value="kan"  name="kannada"  class="langbutton" onclick="applyTranslation('kan')">ಕನ್ನಡ</button>
+    <button type="submit"  value="en"  name="english" id="english" class="langbutton" onclick="applyTranslation('en')">ENGLISH</button>
+    <button type="submit"   value="hin"  name="hindi" id="hindi" class="langbutton" onclick="applyTranslation('hin')">हिंदी</button>
+</div>
+
+<p class="card_container"></p>
+  
+<!-- <input type="hidden" id="phpArray" value="en">    -->
+  <!-- <?php echo $row['language'];?>   -->
+  
+  <script src="js/index.js"></script>
+  <script src="js/arraydata.js"></script> 
+  
+  
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/CH-2.css">
+   
+</head>
+<body onload='innerTextFn()'>
+    <div class="heading" id="banner"> 
+        <h1>EARN QURAN</h1>
+        <img class="maulanaimage" src="maulana.png" alt="image not found" >
+        <div>
+            <button type="submit" onclick="location.href='index.html'">HOME</button>
+            <button type="submit" onclick="location.href='login.html'" >LOGIN</button>
+            <button type="submit" onclick="location.href='signup.html'">SIGNUP</button>
+        </div>
+    </div>
+    <div class="chapterbody">
+    
+        <p  class="backword">
+            <button class="Forwordbutton" onClick="innerTextFnBackward()" id="backword"> <<</button>
+        </p>
+        
+        <div class="chapter">
+            
+            <div class="letterblock"  class="audio" type="button" value="play" onclick="playAudio()">               
+                <p class="letter2">
+                    <span  id="chapter_body1"></span>
+                    <span  id="chapter_body2"></span>
+                    <span  id="chapter_body3"></span> 
+                </p>
+                <P class="letter">
+                    <a id="chapter_body4" > </a>
+                        
+                        <audio id="audio" src=""></audio>
+                     
+                </P>    
+            </div> 
+            <div class="letterblock"  class="audio" type="button" value="play" onclick="playAudio1()">               
+                <p class="letter2">
+                    <span  id="chapter_body5"></span>
+                    <span  id="chapter_body6"></span>
+                    <span  id="chapter_body7"></span> 
+                </p>
+                <P class="letter">
+                    <a id="chapter_body11" > </a>
+                        
+                        <audio id="audio1" src=""></audio>
+                     
+                </P>    
+            </div>
+            <div class="letterblock"  class="audio" type="button" value="play" onclick="playAudio2()">               
+                <p class="letter2">
+                    <span  id="chapter_body8"></span>
+                    <span  id="chapter_body9"></span>
+                    <span  id="chapter_body10"></span> 
+                </p>
+                <P class="letter">
+                    <a id="chapter_body12" > </a>
+                        
+                        <audio id="audio2" src=""></audio>
+                     
+                </P>    
+            </div>
+            
+           
+             
+            
+    
+        </div>
+        <p class="Forword">
+            <button class="Forwordbutton" onClick="innerTextFn()"  > >> </button>
+           </p> 
+    
+        
+    </div>
+    <input type="hidden" id="ch1Array" value="">
+        
+        <script src="js/CH-6.js" ></script>
+        <script src="js/arraydata.js" ></script>
+</body>
+</html>

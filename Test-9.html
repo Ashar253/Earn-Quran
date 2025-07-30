@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/Test-1.css">
+    <script type="text/javascript" src="js/Test-9.js"></script>
+
+ 
+</head>
+<audio id="myAudio">
+    <source src="sounds/Alif.mp3" type="audio/mpeg">
+    <source src="sounds/Ba.mp3" type="audio/mpeg">
+    
+  </audio>
+<body onload="innerTextFnBackward()">
+  <!-- onload='innerTextFn()' -->
+    <banner>
+        <div class="heading" > 
+            <h1>EARN QURAN</h1>
+            <img class="maulanaimage" src="maulana.png" alt="image not found" >
+            <div>
+                <button type="submit" onclick="location.href='index.html'">HOME</button>
+                <button type="submit" onclick="location.href='login.html'" >LOGIN</button>
+                <button type="submit" onclick="location.href='signup.html'">SIGNUP</button>
+            </div>
+        </div>
+    </banner>
+    <div class="chapterbody">
+    
+      <p  class="backword">
+        
+       <!-- <button class="Forwordbutton"  onclick="innerTextFn()" id="backword"> <<</button>  -->
+      </p>
+      
+      <div class="chapter">
+          
+          <div class="letterblock"  class="audio" type="button" value="play" > 
+            <P class="letter">
+              <a id="chapter_body4"></a>
+                    
+                    <audio id="audio" src=""></audio>
+                 
+            </P>              
+              <p class="letter2">
+                
+                    <button class="quizChoice"  id="chapter_body1" onclick="quiz()" ></button>  
+                    <button class="quizChoice"  id="chapter_body2" onclick="quiz1()"> </button> 
+                     <button class="quizChoice" id="chapter_body3" onclick="quiz2()"> </button>
+              
+              </p>
+                  
+          </div> 
+          <div class="letterblock"  class="audio" type="button" value="play" > 
+            <P class="letter">
+                <a id="chapter_body11" > </a>
+                    
+                    <audio id="audio1" src=""></audio>
+                 
+            </P>                
+              <p class="letter2">
+                <button class="quizChoice"  id="chapter_body5" onclick="quiz3()"></button>  
+                <button class="quizChoice"  id="chapter_body6" onclick="quiz4()"></button> 
+                <button class="quizChoice" id="chapter_body7" onclick="quiz5()"> </button>
+                  
+              </p>
+                
+          </div>
+          <div class="letterblock"  class="audio" type="button" value="play" > 
+            <P class="letter">
+                <a id="chapter_body12" > </a>
+                    
+                    <audio id="audio2" src=""></audio>
+                 
+            </P>              
+              <p class="letter2">
+                <button class="quizChoice"  id="chapter_body8" onclick="quiz6()"></button>  
+                <button class="quizChoice"  id="chapter_body9" onclick="quiz7()"> </button> 
+                <button class="quizChoice" id="chapter_body10" onclick="quiz8()"> </button>
+                  
+              </p>
+                  
+          </div>         
+  
+      </div>
+      <p class="Forword">
+           <button class="Forwordbutton"  onclick="innerTextFnBackward()"> Next ></button> 
+                 
+         </p> 
+  
+      
+  </div>
+   <audio id="rightSound" src="sounds/right.mp3"></audio>
+    <audio id="wrongSound" src="sounds/wrong.mp3"></audio> 
+  <script src="js/Test-9.js" ></script>
+  <script src="js/arraydata.js" ></script>
+    
+</div>
+
+</body>
+</html>
