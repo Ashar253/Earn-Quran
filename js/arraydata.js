@@ -221,6 +221,6 @@ const langtranslation =
   },
     
 };
-const progress=['29','20','0','3','0','0','0','0','0'];
+const progress=['29','10','0','3','0','0','0','0','0'];
 
 
