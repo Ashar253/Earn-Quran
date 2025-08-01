@@ -1,6 +1,7 @@
 const chapters = [
   { no:1,
     href:'CH-1.html',
+    chid:'29',
     href_test:'Test-1.html',
     href_example:'example1.html',
     chapter:['ا', 'ب','ت', 'ث', 'ج', 'ح', 'خ', 'د', 'ذ', 'ر', 'ز','س','ش','ص','ض', 'ط', 'ظ','ع', 'غ', 'ف', 'ق', 'ک','ل', 'م','ن','ه','و','ی','ء'],  
@@ -17,6 +18,8 @@ const chapters = [
     data9:['بَابَ','عَبَدَ','تَمَرَ','كَوَثَرْ','وَجَدْ','اَحَدْ','اَخَذْ','قُدِرَ','اَذِنَ','شَرِبَ','زَﻋَّﻞَ','كَسَبَ','شَعَبْ','صَيِادْ','خَضَارَ','طَعَنْ','ظَهَرَ','عَاءِدْ','غَاءِمْ','خَافْ','قَعَسْ','كَسَبَ','وَجَلَ','مَعَ','نَعَسَ','طَهِيَ','وَجَلَ','بَعِيِدْ','سُءِلَ'],
     data10:['إنسان','بحيرة','ذَاَتَ','تَاَرَثَ','جَنَّتْ','جَنَاحَ','اَخَزْ','دَخَلَ','ذٰلِكَ','رَدِفَ','زَﻋَﻖَ','سَﺄَﻝَ','شَعَرَ','بَصَلَ','أَرَضَ','طَبَلَ','ظَفِرَ','عَابِسَ','غَادَرَ','فَمَ','قَعَرَ','كَارَثَ','خَلَفَ','مَعَاً','نَعَلَ','وَجَهْ','خَوَفَ','يَوَمَ','ساءَلَ'],
     data11:['sounds/alif','sounds/ba','sounds/taa','sounds/tha','sounds/jeem','sounds/haa','sounds/khaa','sounds/dal','sounds/dhal','sounds/raa','sounds/jaa','sounds/seen','sounds/sheen','sounds/saad','sounds/daad','sounds/toa','sounds/dhaa','sounds/ain','sounds/ghain','sounds/faa','sounds/qaaf','sounds/kaaf','sounds/laam','sounds/meem','sounds/noon','sounds/ha','sounds/waw','sounds/yaa','sounds/hamza'],
+    data12:['79Ku0wSKf9Q?si=J-M1czKGfnTIFYX5','9cVpRChZe1Q?si=R0E4v0TcO6YlAmxf','rBDQ08tyZDg?si=DFQTtzingGfjv95_','0NsHcTrXF0k?si=QYdScli9Lg45sVe-','-9Q38ZmYWvY?si=xyzIvjqBSlp6sW6R','O_dM_DtIr0k?si=PpEdzuSwzfilY3hW','9OeXE7fqdWQ?si=Y_7zuoIDvTS_XPeb','9BiVdUVNhCQ?si=zpsn53l8ujLxKHwk','PsX5W5tqVN4?si=JiKqLE4m1xdB2RWZ','VW952YXom9I?si=Ef7fYCIKC7Shx1k-','dO_fFcxxgqM?si=RmtBSH7n4L4L-jDH','ijqrMGtCxCY?si=iBt1Crn-sru6YybW','MJdcdEQIc5k?si=wYb0yjP0y8adNVhU','8asod5l0joI?si=2uoA_z0AwR8gaNXz','lcn6zgCYpzY?si=0o9YPvKSBeB3IHTt','1GV-CUoIGDM?si=IRxC9VDkvpmvtPMH','1GV-CUoIGDM?si=IRxC9VDkvpmvtPMH','wDHqTmyeBzE?si=bXb7RMNu5b-CoDXz','x0-pJIjLG74?si=diKyGQH9c5_Bd6D2','CAGmqstMWiU?si=4SqpzczDf1XspEzq','MeebIknjmgM?si=mxU27VzDclPZ0HXM','gX8i71EuL_w?si=JODw8EWX7OSdX_9N','_KfG76rMtUw?si=5QSQExJds1W51dNZ','qHCCatFhu9U?si=tTcnCOeoHZIjRwAZ','Vs4i3-WeDMM?si=OqjeekcEAb7bXDS8','tvnqTorSt5I?si=Nlb2MpG7Tzabe_5F','fIXjbHE_UIg?si=yigA92Zb-YLL4kWL','evEHMz7eTlE?si=MIKf9mg_DRPDGdS_','vX4es282ueU?si=H342pIMJQBrdEDff'],
+    //www.youtube.com/embed
     example:['لا','با','الا','مح','باب','كب','كا','بكت'],
     example1:['تكث','نا','تا','يا','ثا','بس','يس','نس'],
     example2:['تس','ثس','ثج','تح','نخ','يح','بج','يم'],
@@ -27,6 +30,7 @@ const chapters = [
     data1 :['Zabar', 'B(a)','T(a)', 's(a)', 'J(a)', 'H(a)', 'Qh(a)', 'D(a)', 'Z(a)', 'R(a)', 'Z(a)', 'S(a)', 'Sh(a)', 'Sw(a)', 'Zw(a)', 'T(a)', 'Z(a)', 'A(a)', 'G(a)', 'F(a)', 'Qh(a)','Kh(a)', 'L(a)', 'M(a)', 'N(a)', 'H(a)', 'W(a)','Y(a)','A(a)'],
     no:2,
     href:'CH-2.html',
+    chid:'22',
     href_example:'example2.html',
     href_test:'Test-2.html',
     data2:['ಜಬರ್', 'ಬಾ','ತಾ', 'ಸಾ', 'ಜಾ', 'ಹಾ', 'ಖಾ', 'ದ', 'ಝಾ', 'ರಾ', 'ಝಾ', 'ಸಾ' , 'ಶಾ', 'ಸ್ವಾ', 'ಝ್ವಾ', 'ತಾ', 'ಝಾ', 'ಆ', 'ಗಾ', 'ಫಾ', 'ಕ್ಹಾ', 'ಖಾ', 'ಲಾ', 'ಮಾ', ' ನಾ', 'ಹಾ', 'ವಾ','ಯಾ','ಅ'],
@@ -49,6 +53,7 @@ const chapters = [
   { 
     no:3,
     href:'CH-3.html',
+    chid:'0',
     href_test:'Test-3.html',
     href_example:'example3.html',
     data1 :['Khada zabar', 'Baa','Taa', 'saa', 'Jaa', 'Haa', 'Qhaa', 'Daa', 'Zaa', 'Raa', 'Zaa', 'Saa', 'Shaa', 'Swaa', 'Zwaa', 'Taa', 'Zaa', 'Aaa', 'Gaa', 'Faa', 'Qhaa','Khaa', 'Laa', 'Maa', 'Naa', 'Haa', 'Waa','Yaa','Aaa'],
@@ -70,6 +75,7 @@ const chapters = [
   { 
     no:4,
     href:'CH-4.html',
+    chid:'0',
     href_test:'Test-4.html',
     href_example:'example4.html',
     data1 :['Do Zabar', 'Bann','Tann', 'sann', 'Jann', 'Hann', 'Qhann', 'Dann', 'Zann', 'Rann', 'Zann', 'Sann', 'Shann', 'Swann', 'Zann', 'Tann', 'Zann', 'Aann', 'Gann', 'Fann', 'Qhann','Khann', 'Lann', 'Mann', 'Nann', 'Hann', 'Wann','Yann','Ann'],
@@ -92,6 +98,7 @@ const chapters = [
   { 
     no:5,
     href:'CH-5.html',
+    chid:'0',
     href_test:'Test-5.html',
     href_example:'example5.html',
     data1 :['Aaa', 'Baa','Taa', 'saa', 'Jaa', 'Haa', 'Qhaa', 'Daa', 'Zaa', 'Raa', 'Zaa', 'Saa', 'Shaa', 'Swaa', 'Zaa', 'Taa', 'Zaa', 'Aai', 'Ghaa', 'Faa', 'Qhaa','Khaa', 'Laa', 'Maa', 'Naa', 'Haa', 'Waa','Yaa','Aaa'],
@@ -114,6 +121,7 @@ const chapters = [
   { 
     no:6,
     href:'CH-6.html',
+    chid:'0',
     href_test:'Test-6.html',
     href_example:'example6.html',
     chapter:['اَبْ', 'اِبْ','اُبْ', 'جَبْ', 'جِبْ', 'جُبْ', 'بَجْ', 'بِجْ', 'بُجْ', 'سَدْ', 'سِدْ', 'سُدْ', 'خَطْ', 'قِطْ', 'قُطْ', 'جَقْ', 'جِقْ', 'جُقْ', 'بَسْ', 'كِتْ', 'جِعْ', 'صَدْ', 'غُلْ', 'تَجْ', 'وَحْ', 'سَبْ', 'اِهْ', 'نَصْ', 'لَقْ'],
@@ -134,6 +142,7 @@ const chapters = [
   { 
     no:7,
     href:'CH-7.html',
+    chid:'0',
     href_test:'Test-7.html',
     href_example:'example7.html',
     chapter:['اَبْ', 'اِبْ','اُبْ', 'جَبْ', 'جِبْ', 'جُبْ', 'بَجْ', 'بِجْ', 'بُجْ', 'سَدْ', 'سِدْ', 'سُدْ', 'خَطْ', 'قِطْ', 'قُطْ', 'جَقْ', 'جِقْ', 'جُقْ', 'بَسْ', 'كِتْ', 'جِعْ', 'صَدْ', 'غُلْ', 'تَجْ', 'وَحْ', 'سَبْ', 'اِهْ', 'نَصْ', 'لَقْ'],
@@ -154,6 +163,7 @@ const chapters = [
   { 
     no:8,
     href:'CH-8.html',
+    chid:'0',
     href_test:'Test-8.html',
     href_example:'example8.html',
     chapter:['اَبْ', 'اِبْ','اُبْ', 'جَبْ', 'جِبْ', 'جُبْ', 'بَجْ', 'بِجْ', 'بُجْ', 'سَدْ', 'سِدْ', 'سُدْ', 'خَطْ', 'قِطْ', 'قُطْ', 'جَقْ', 'جِقْ', 'جُقْ', 'بَسْ', 'كِتْ', 'جِعْ', 'صَدْ', 'غُلْ', 'تَجْ', 'وَحْ', 'سَبْ', 'اِهْ', 'نَصْ', 'لَقْ'],
@@ -174,6 +184,7 @@ const chapters = [
   { 
     no:9,
     href:'CH-9.html',
+    chid:'0',
     href_test:'Test-9.html',
     href_example:'example9.html',
     chapter:['اَبْ', 'اِبْ','اُبْ', 'جَبْ', 'جِبْ', 'جُبْ', 'بَجْ', 'بِجْ', 'بُجْ', 'سَدْ', 'سِدْ', 'سُدْ', 'خَطْ', 'قِطْ', 'قُطْ', 'جَقْ', 'جِقْ', 'جُقْ', 'بَسْ', 'كِتْ', 'جِعْ', 'صَدْ', 'غُلْ', 'تَجْ', 'وَحْ', 'سَبْ', 'اِهْ', 'نَصْ', 'لَقْ'],
@@ -201,7 +212,7 @@ const langtranslation =
    
   },
  "en": { 
-    "id":2, "lng": 'eng', "btnText":'English',"help":'HELP',"start":'START',"test":'TEST',"chapter":'CHAPTER',"example":"Example","choose":"Choose","from below":"from below"
+    "id":2, "lng": 'eng', "btnText":'English',"help":'HELP',"start":'START',"test":'TEST',"chapter":'CHAPTER',"example":"EXAMPLE","choose":"Choose","from below":"from below"
     
   },
  "hin": { 
@@ -210,4 +221,6 @@ const langtranslation =
   },
     
 };
+const progress=['29','10','0','3','0','0','0','0','0'];
+
 
